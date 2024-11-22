@@ -305,7 +305,7 @@ img {
 }
 
 .skills__csharp{
-  width: 60%;
+  width: 55%;
 }
 
 .skills__asp{
@@ -316,6 +316,9 @@ img {
   width: 70%;
 }
 
+.skills__java{
+  width: 40%;
+}
 
 .skills__img {
   border-radius: 0.5rem;
